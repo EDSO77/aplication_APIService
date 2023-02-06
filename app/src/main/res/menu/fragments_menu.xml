@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemDog"
+        android:title="Dogs API"/>
+
+    <item
+        android:id="@+id/itemPokemon"
+        android:title="Pokemon API"/>
+
+    <item
+    android:id="@+id/itemNasa"
+    android:title="Nasa API"/>
+
+</menu>
